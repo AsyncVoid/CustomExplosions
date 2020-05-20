@@ -1,0 +1,9 @@
+main: me.Async.CE.Main
+version: 0.1
+author: Async
+name: CustomExplosions
+commands:
+    customexplosions:
+        aliases: [ce]
+        description: Main command for CustomExplosions
+        permission: customexplosions.spawn
